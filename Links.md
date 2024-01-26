@@ -35,4 +35,14 @@ http://www.jamessawyer.co.uk/pub/gpt_jb.html
 0dAI:
 https://0dai.omegaai.io/en
 
+EvilGPT:
+https://poe.com/universal_link_page?handle=EvilGPT  
 
+HackerGPT:
+https://www.hackergpt.chat/
+
+
+## Useful Tools
+
+ShellGPT:
+https://github.com/TheR1D/shell_gpt
