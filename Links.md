@@ -6,6 +6,5 @@ You:
 https://you.com/
 
 ## AI For Dork Creation
-Dork Genius:
-
+Dork Genius: 
 https://dorkgenius.com/
