@@ -5,6 +5,9 @@
 You:
 https://you.com/
 
+Phind:
+https://www.phind.com/search?home=true
+
 ## AI For Dork Creation
 
 Dork Genius: 
@@ -26,3 +29,10 @@ https://github.com/tg12/gpt_jailbreak_status
 
 James Sawyer site:
 http://www.jamessawyer.co.uk/pub/gpt_jb.html
+
+## AI created for Hacking / Cybersecurity
+
+0dAI:
+https://0dai.omegaai.io/en
+
+
