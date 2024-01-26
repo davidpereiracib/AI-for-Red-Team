@@ -41,7 +41,14 @@ https://poe.com/universal_link_page?handle=EvilGPT
 HackerGPT:
 https://www.hackergpt.chat/
 
+Cyber Threat Intelligence AI:
+https://chat.openai.com/g/g-npBgtxay4-cyber-threat-intelligence-ai
 
+GpenTester:
+https://chat.openai.com/g/g-zQfyABDUJ-gp-en-t-ester
+
+Hack Tricks GPT:
+https://chat.openai.com/g/g-aaNx59p4q-hacktricksgpt
 ## Useful Tools
 
 ShellGPT:
