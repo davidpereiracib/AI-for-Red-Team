@@ -1,0 +1,1 @@
+This repository contains nformation about my conference "Artificial Intelligence in the Red Team Arsenal" and useful links related to AI that can be used for Ethical Hackin g and Redt Team Engagements.
