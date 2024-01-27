@@ -53,3 +53,9 @@ https://chat.openai.com/g/g-aaNx59p4q-hacktricksgpt
 
 ShellGPT:
 https://github.com/TheR1D/shell_gpt
+
+## Tu propio GPT
+https://gpt4all.io/index.html
+
+## Para Investigar:
+https://mistral.ai/news/announcing-mistral-7b/
